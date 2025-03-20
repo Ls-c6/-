@@ -14,7 +14,7 @@ while y<year:
 #元旦判斷    
 t=d%7
 
-#月曆
+#日曆
 for month in range(1,13):
     print(Month[month-1])
     print("一","二","三","四","五","六","日")
